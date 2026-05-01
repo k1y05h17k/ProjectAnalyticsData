@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+data/raw/*.csv
+data/raw/*.json
+data/processed/*.csv
+*.egg-info/
+.DS_Store
